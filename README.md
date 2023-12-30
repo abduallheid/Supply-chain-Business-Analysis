@@ -15,9 +15,8 @@ Analyze and visualize key metrics in the supply chain to optimize efficiency and
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 ## 
-[](supply_chain.pdf)
+[Dashboard & Report](supply_chain.pdf)
 ## Project Overview
 
 This data analysis project focuses on exploring and analyzing various supply chain metrics, including inventory levels, lead times, and supplier performance. The goal is to identify areas for improvement and make data-driven decisions to enhance the overall efficiency of the supply chain.
