@@ -1,16 +1,15 @@
 # Supply-chain-Business-Analysis
 Supply chain dashboards play a crucial role in providing insights and visualizing key performance indicators (KPIs) across various stages of the supply chain. The types of supply chain dashboards can vary based on the specific needs and focus areas of a business
-
-# Supply Chain Data Analysis Project
-
 Analyze and visualize key metrics in the supply chain to optimize efficiency and decision-making.
 
+![](https://media1.giphy.com/media/w5rTXEfu4as4YAR6QI/giphy.gif?cid=ecf05e47a8cmpb80t6zfnc3e2ydazs2rwzc5r26gb4ht7cmg&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 ## Table of Contents
-- [Project Overview](#project-overview)
-- [Data](#data)
-- [Analysis Techniques](#analysis-techniques)
-- [Results](#results)
-- [Getting Started](#getting-started)
+- [:sparkler:Project Overview](#project-overview)
+- [:thread:Data](#data)
+- [:abacus:KPIS](KPI`s)
+- [:mag_right:Analysis Techniques](#analysis-techniques)
+- [:chart:Results](#results)
+- [:inbox_tray:Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
@@ -116,6 +115,9 @@ Key findings include:
 - Supplier performance trends and areas for improvement.
 - Optimization opportunities for inventory levels.
 
+##
+[Know more about supply chain](domain-knowledge.pdf)
+
 ## Getting Started
 
 Follow these steps to set up and run the data analysis project locally.
@@ -130,7 +132,17 @@ Make sure you have the following installed:
 ### Installation
 
 Clone the repository and install the required libraries:
-```bash
-git clone https://github.com/abduallheid/Supply-chain-Business-Analysis.git
-cd Supply-chain-Business-Analysis
-pip install -r requirements.txt
+
+                      ```bash
+                      git clone https://github.com/abduallheid/Supply-chain-Business-Analysis.git
+                      cd Supply-chain-Business-Analysis
+                      pip install -r requirements.txt
+
+## Usage
+Run the Jupyter Notebook supply_chain_analysis.ipynb to reproduce the analysis and explore the results.
+
+## Contributing
+Contributions are welcome! Feel free to submit issues or open pull requests for improvements or additional analyses.
+
+## License
+This project is licensed under the MIT License.
